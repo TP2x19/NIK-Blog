@@ -1,2 +1,2 @@
 # NIK-Blog
-my first web blog
+Please Open the Homei.html first
